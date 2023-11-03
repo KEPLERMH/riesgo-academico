@@ -16,7 +16,7 @@
 
     <style>
         body{
-            background-image:url('inicio/img/login.jpg');
+            background-image:url('inicio/img/login.jpg'); 
             background size:cover;
             background repeat: no-repeat;
             background-attachment:fixed;
