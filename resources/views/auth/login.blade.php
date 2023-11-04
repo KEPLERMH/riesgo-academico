@@ -36,7 +36,7 @@
             <form {{ url('/login') }} method="POST">
                 @csrf
                 <img src="{{ asset('inicio/img/avatar.svg') }}">
-                <h2  style="color:white;" >INICIAR SESSIONss</h2>
+                <h2  style="color:white;" >INICIAR SESSION</h2>
 
                 @if (session('mensaje'))
                     <div class="alert alert-warning alert-dismissible fade show mb-0" role="alert">
